@@ -14,3 +14,5 @@ to run (Have Java 8 or later):
   2. Javac Main.java
   3. java Main (textfile.txt) - Textfile is optional
   4. Enjoy!
+
+The textfile must be in a specific format - example provided in the source 
