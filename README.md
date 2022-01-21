@@ -2,12 +2,12 @@
 
 Java application that provides user with a user interface to organize their eportfolio.
 Includes options to:
-  Buy an investment
-  Sell an investment
-  Update an investment's price
-  Calculate total gain
-  Load existing investments with a file
-  Output investments to a file
+  1. Buy an investment
+  2. Sell an investment
+  3. Update an investment's price
+  4. Calculate total gain
+  5. Load existing investments with a file
+  6. Output investments to a file
 
 to run (Have Java 8 or later): 
   1. cd into the directory with the files
