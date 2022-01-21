@@ -1,0 +1,21 @@
+type = "stock""
+symbol = "AAPL"
+name = "Apple Canada"
+quantity = "1750.0"
+price = "15.0"
+bookValue = "262509.99"
+
+type = "stock""
+symbol = "TESLA"
+name = "tesla motors"
+quantity = "150.0"
+price = "22.0"
+bookValue = "22509.99"
+
+type = "mutualfund""
+symbol = "SSETX"
+name = "BNY Mellon Growth"
+quantity = "200.0"
+price = "30.0"
+bookValue = "6000.0"
+
